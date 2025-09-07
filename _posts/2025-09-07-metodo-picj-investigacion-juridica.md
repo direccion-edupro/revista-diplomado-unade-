@@ -95,7 +95,7 @@ La investigación jurídica, al igual que toda empresa científica, requiere de 
 * Hernández-Sampieri, R., Fernández, C., & Baptista, P. (2022). *Metodología de la investigación* (7. ed.). McGraw-Hill. 
 * Huang, X., Lin, J., & Demner-Fushman, D. (2006). Evaluation of PICO as a knowledge representation for clinical questions. *AMIA Annual Symposium Proceedings*, 359-363.
 * Londoño-Toro, B. (2013). La enseñanza de la investigación jurídica: ¿cómo superar la dicotomía entre lo formal y lo real? *Revista Derecho del Estado*, (30), 109–134. https://doi.org/10.18601/01229893.n30.06
-* Zagrebelsky, G. (2007). *El derecho dúctil*. Trotta. 
+* Zagrebelsky, G. (2007). El derecho dúctil. Trotta.
 ---
 <div style="margin-top: 2em; padding: 1em; border: 1px solid #ddd; border-radius: 5px;">
   <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></p>
