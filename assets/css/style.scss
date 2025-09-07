@@ -1,0 +1,14 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* --- TUS CAMBIOS DE DISEÑO VAN AQUÍ --- */
+
+/* Estilos para destacar el equipo editorial */
+.equipo-editorial {
+  background-color: #f8f9fa; /* Un fondo gris muy claro */
+  padding: 1em 1.5em;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  margin-bottom: 2em; /* Espacio antes de la lista de artículos */
+}
