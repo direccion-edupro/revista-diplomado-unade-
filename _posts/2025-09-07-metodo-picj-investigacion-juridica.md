@@ -4,9 +4,6 @@ title: "DEL CAOS AL CRITERIO: EL MÉTODO PICJ PARA LA FORMULACIÓN DE PROBLEMAS 
 author: "Johany Josefina Acevedo Cabrera"
 ---
 
-# DEL CAOS AL CRITERIO: EL MÉTODO PICJ PARA LA FORMULACIÓN DE PROBLEMAS JURÍDICOS EN INVESTIGACIONES ACADÉMICAS
-*Por: Johany Josefina Acevedo Cabrera*
-
 ## INTRODUCCIÓN
 
 En el ámbito de la investigación jurídica, la correcta formulación del problema constituye uno de los pilares fundamentales para garantizar la calidad, la pertinencia y el impacto del trabajo académico. Diversos autores han subrayado la necesidad de partir de problemas reales y jurídicamente relevantes como punto de partida para toda investigación rigurosa (Carbonell, 2010; Atienza, 2006). Sin embargo, en la práctica docente universitaria, especialmente en programas de posgrado, persiste una brecha significativa entre la identificación de un problema jurídico y la capacidad de los estudiantes para traducirlo en una estructura metodológicamente coherente.
