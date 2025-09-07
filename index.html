@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<h1>Revista Digital del Diplomado en Metodología de la Investigación Científica</h1>
-<p>
-  <i>Aplicado a la Defensa y la Seguridad Nacional.</i>
-</p>
-<p>Un proyecto académico coordinado por <strong>Johany Acevedo</strong>.</p>
-
 <div class="equipo-editorial">
   <h3>Equipo Editorial</h3>
   <p>
@@ -23,48 +17,40 @@ layout: default
     <strong>Coeditor(a):</strong><br>
     Crnel. José Guillermo Guerrero Peña, ERD, MA
   </p>
-  
-</div>
   <p>
-    <strong>Autoridades EGAEE:</strong>
+    <strong>Autoridades EGAEE:</strong><br>
+    * General de Brigada Vicente Mota Medina, ERD, MA, Director de EGAEE<br>
+    * Crnel. Omar Gitte Mejía, FARD, MA, Subdirector de Investigaciones, Extensión y Educación Continua, EGAEE
   </p>
-  <ul>
-    <li>General de Brigada Vicente Mota Medina, ERD, MA. Director de EGAEE </li> 
-    <li>Crnel. Omar Gitte Mejía, FARD, MA. Subdirector de Investigaciones, Extensión y Educación Continua, EGAEE </li>
-    </ul>
- </p>
   <p>
     <strong>Consejo de Colaboradores:</strong>
   </p>
   <ul>
-    <li>General de Brigada Juan Carlos Estrella Balbuena, ERD, MA. </li>
-    <li>Crnel. Santiago E. Morales Gómez, ERD, MA. </li>
-    <li>Crnel. Oscanio Liriano González, ERD, MA. </li>
-    <li>Crnel. Marcos Mateo Capellán, ERD, MA. </li>
-    <li>Contralmirante (r) Rocío Cristy Santana Gonález, ARD </li>
-    <li>Dr. Francisco Acosta Pérez </li>
-    <li>Dra. Fanny Torres </li>
-    <li>Dra. Yaquelín Inoa Tatis </li>
+    <li>General de Brigada Juan Carlos Estrella Balbuena, ERD, MA.</li>
+    <li>Crnel. Santiago E. Morales Gómez, ERD, MA.</li>
+    <li>Crnel. Oscanio Liriano González, ERD, MA.</li>
+    <li>Crnel. Marcos Mateo Capellán, ERD, MA.</li>
+    <li>Contralmirante (r) Rocío Cristy Santana González, ARD</li>
+    <li>Dr. Francisco Acosta Pérez</li>
+    <li>Dra. Fanny Torres</li>
+    <li>Dra. Yaquelin Inoa Tatis</li>
     <li>Edwin B. Vicente Soto, MA.</li>
-    <li>Fausto Suriel, MA. </li>
-  </p>
+    <li>Fausto Suriel, MA.</li>
   </ul>
 </div>
 
 <h3>Publicaciones del VI Diplomado (2025)</h3>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <p class="author">
           <em>Por: {{ post.author }}</em>
       </p>
-
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer artículo completo</a>
     </article>
   {% endfor %}
