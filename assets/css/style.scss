@@ -12,3 +12,18 @@
   border: 1px solid #e0e0e0;
   margin-bottom: 2em; /* Espacio antes de la lista de artículos */
 }
+.boton-guia {
+  display: inline-block;
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  margin: 1em 0;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+.boton-guia:hover {
+  background-color: #218838;
+  color: white;
+}
